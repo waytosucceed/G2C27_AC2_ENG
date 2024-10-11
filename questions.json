@@ -1,0 +1,146 @@
+[
+   
+    {
+      "questionNo": "Q1.",
+      "question": "How many syllables are in the word 'tree'?",
+      "secondImg":"./images/1.png",
+      "Q_sound": "./sound/tree.mp3",
+      "options": [
+        { "text": "1" },
+        { "text": "2" },
+        { "text": "3" }
+      ],
+      "correct": 0,
+      "explanation": "'Tree' has only one syllable. Even though it has two 'E's, they make one long 'E' sound together."
+    },
+    {
+      "questionNo": "Q2.",
+      "question": "Listen to the word and choose the correct word:",
+      "secondImg":"./images/2.png",
+      "Q_sound": "./sound/hen.mp3",
+      "options": [
+        { "text": "Hen" },
+        { "text": "Pen" },
+        { "text": "Ten" }
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'Hen.' The letter 'E' in the word 'Hen' sounds like a short 'eh' sound."
+    },
+    {
+      "questionNo": "Q3.",
+      "question": "Listen to the word and choose the correct word:",
+      "secondImg":"./images/3.png",
+      "Q_sound": "./sound/speed.mp3",
+      "options": [
+        { "text": "Spot" },
+        { "text": "Seed" },
+        { "text": "Speed" }
+      ],
+      "correct": 2,
+      "explanation": "The correct word is 'Speed.' The letter 'E' in the word 'Speed' makes a long 'E' sound, as in the words 'See' and 'Tree.'"
+    },
+    {
+      "questionNo": "Q4.",
+      "question": "Listen to the word and choose the correct word:",
+      "secondImg":"./images/4.png",
+      "Q_sound": "./sound/sheep.mp3",
+      "options": [
+        { "text": "See" },
+        { "text": "Sheep" },
+        { "text": "Sea" }
+      ],
+      "correct": 1,
+      "explanation": "The correct word is 'Sheep.' The letter 'E' in the word 'Sheep' makes a long 'E' sound, as in the words 'See' and 'Tree.'"
+    },
+    {
+      "questionNo": "Q5.",
+      "question": "Listen to the word and choose the correct word:",
+      "secondImg":"./images/5.png",
+      "Q_sound": "./sound/egg.mp3",
+      "options": [
+        { "text": "Elf" },
+        { "text": "Ega" },
+        { "text": "Egg" }
+      ],
+      "correct": 2,
+      "explanation": "The correct word is 'Egg.' The letter 'E' in the word 'Egg' sounds like a short 'eh' sound in the starting."
+    },
+    {
+      "questionNo": "Q6.",
+      "question": "Listen to the word and choose the correct word:",
+      "secondImg":"./images/6.png",
+      "Q_sound": "./sound/break.mp3",
+      "options": [
+        { "text": "Break" },
+        { "text": "Take" },
+        { "text": "Fake" }
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'Break.' The letter 'E' in the word 'Break' makes a 'a' sound when it is pronounced with the letter 'A.'"
+    },
+   
+    {
+      "questionNo": "Q7.",
+      "question": "What can you hear on the steep mountain peaks?",
+      "options": [
+        { "text": "Birds singing" },
+        { "text": "The wind that speaks" },
+        { "text": "Cars honking" }
+      ],
+      "correct": 1,
+      "explanation": "The poem says, 'You can hear the wind that speaks' on the mountain peaks. This shows the sound of the wind is special in the mountains."
+    },
+    {
+      "questionNo": "Q8.",
+      "question": "What is the air like in the mountains?",
+      "options": [
+        { "text": "Fresh and sweet" },
+        { "text": "Cold and dirty" },
+        { "text": "Hot and dry" }
+      ],
+      "correct": 0,
+      "explanation": "The poem mentions, 'The air is fresh, the breeze so sweet,' which means the air feels nice and clean."
+    },
+    {
+      "questionNo": "Q9.",
+      "question": "When does the sun set in the poem?",
+      "options": [
+        {
+          "text": "In the morning"
+        },
+        {
+          "text": "At noon"
+        },
+        {
+          "text": "Behind the hills"
+        }
+      ],
+      "correct": 2,
+      "explanation": "The poem says, \"The sun sets behind the hills,\" meaning that’s where the sun goes down."
+    },
+    {
+      "questionNo": "Q10.",
+      "question": "Which word has the same vowel sound as 'meet'?",
+      "secondImg":"./images/7.png",
+      "Q_sound": "./sound/meet.mp3",
+      "options": [
+        {
+          "text": "🔊 met",
+          
+        "audio": "./sound/met.mp3"
+        },
+        {
+          "text": "🔊 meat",
+          
+          "audio": "./sound/meat.mp3"
+        },
+        {
+          "text": "🔊 mat",
+          
+          "audio": "./sound/mat.mp3"
+        }
+      ],
+      "correct": 1,
+      "explanation": "'Meat' has the same long 'E' sound as 'meet'. Both make a long 'E' sound. They are homophones - words that sound the same but have different spellings and meanings."
+    }
+  ]

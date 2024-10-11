@@ -1,0 +1,166 @@
+[
+  {
+    "questionNo": "Q11.",
+    "question": "Which word has the same 'E' sound as 'bee'?",
+    "optionsImages": [
+      "./images/option/1.jpg",
+      "./images/option/2.jpg",
+      "./images/option/3.jpg",
+      "./images/option/4.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/bed.mp3",
+      "./sound/tree.mp3",
+      "./sound/hen.mp3",
+      "./sound/pet.mp3"
+    ],
+    "explanation": "The word 'tree' has the same long 'E' sound as 'bee'. Both words have the 'EE' spelling that makes the long 'E' sound, like in 'eeee'."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which word has a different 'E' sound from the others?",
+    "optionsImages": [
+      "./images/option/5.jpg",
+      "./images/option/6.jpg",
+      "./images/option/7.jpg",
+      "./images/option/8.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/seed.mp3",
+      "./sound/feed.mp3",
+      "./sound/bed.mp3",
+      "./sound/need.mp3"
+    ],
+    "explanation": "In 'bed', the 'E' makes a short 'E' sound (like in 'eh'). The other words (seed, feed, need) all have the long 'E' sound made by 'EE'."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "How do you pronounce the 'E' in 'pet'?",
+    "optionsImages": [
+      "./images/option/9.jpg",
+      "./images/option/10.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/me.mp3",
+      "./sound/egg.mp3"
+    ],
+    "explanation": "In 'pet', the 'E' makes a short 'E' sound, which is the same sound as the 'E' in 'egg'. It's a quick 'eh' sound."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "In 'sheep', what sound does 'EE' make?",
+    "optionsImages": [
+      "./images/option/11.jpg",
+      "./images/option/12.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/bed.mp3",
+      "./sound/me.mp3"
+    ],
+    "explanation": "In 'sheep', the 'EE' makes a long 'E' sound, just like in 'me'. It's the sound you make when you say the letter 'E'."
+  },
+
+    {
+      "questionNo": "Q15.",
+      "question": "Which word has a different 'E' sound from the others?",
+      "optionsImages": [
+        "./images/option/13.jpg",
+        "./images/option/14.jpg",
+        "./images/option/15.jpg",
+        "./images/option/16.jpg"
+      ],
+      "correct": 3,
+      "optionsAudio": [
+        "./sound/feet.mp3",
+        "./sound/beat.mp3",
+        "./sound/seat.mp3",
+        "./sound/bet.mp3"
+      ],
+      "explanation": "'Bet' has a short 'E' sound (like 'eh'), while all the other words (feet, beat, seat) have a long 'E' sound."
+    },
+    {
+      "questionNo": "Q16.",
+      "question": "How do you pronounce the 'E' in 'she'?",
+      "optionsImages": [
+        "./images/option/17.jpg",
+        "./images/option/18.jpg"
+      ],
+      "correct": 1,
+      "optionsAudio": [
+        "./sound/bet.mp3",
+        "./sound/me.mp3"
+      ],
+      "explanation": "In 'she', the 'E' at the end makes a long 'E' sound, just like in 'me'. It's the sound of the letter 'E'."
+    },
+    {
+      "questionNo": "Q17.",
+      "question": "Which word doesn't rhyme with the others?",
+      "optionsImages": [
+        "./images/option/19.jpg",
+        "./images/option/20.jpg",
+        "./images/option/21.jpg",
+        "./images/option/22.jpg"
+      ],
+      "correct": 3,
+      "optionsAudio": [
+        "./sound/bee.mp3",
+        "./sound/see.mp3",
+        "./sound/tree.mp3",
+        "./sound/bed.mp3"
+      ],
+      "explanation": "'Bed' has a short 'E' (like 'eh') sound and doesn't rhyme with the others. 'Bee', 'see', and 'tree' all have the long 'E' sound and rhyme."
+    },
+    {
+      "questionNo": "Q18.",
+      "question": "Which word has a long 'E' sound?",
+      "optionsImages": [
+        "./images/option/22.jpg",
+        "./images/option/24.jpg",
+        "./images/option/25.jpg",
+        "./images/option/26.jpg"
+      ],
+      "correct": 3,
+      "optionsAudio": [
+        "./sound/bed.mp3",
+        "./sound/red.mp3",
+        "./sound/led.mp3",
+        "./sound/seed.mp3"
+      ],
+      "explanation": "'Seed' has a long 'E' sound made by the 'EE'. The other words (bed, red, led) all have a short 'E' sound."
+    },
+    {
+      "questionNo": "Q19.",
+      "question": "In 'tree', what sound does 'EE' make?",
+      "optionsImages": [
+        "./images/option/27.jpg",
+        "./images/option/28.jpg",
+        "./images/option/29.jpg"
+      ],
+      "correct": 2,
+      "optionsAudio": [
+        "./sound/bed.mp3",
+        "./sound/no_sound.mp3",
+        "./sound/me.mp3"
+      ],
+      "explanation": "In 'tree', the 'EE' makes one long 'E' sound, just like in 'me'. It's not two separate sounds, but one long sound."
+    },
+    {
+      "questionNo": "Q20.",
+      "question": "How do you pronounce the 'E' in 'pet'?",
+      "optionsImages": [
+        "./images/option/30.jpg",
+        "./images/option/31.jpg"
+      ],
+      "correct": 1,
+      "optionsAudio": [
+        "./sound/me.mp3",
+        "./sound/egg.mp3"
+      ],
+      "explanation": "In 'pet', the 'E' makes a short 'E' (like 'eh') sound, which is the same sound as the 'E' in 'egg'. It's a quick 'eh' sound."
+    }
+    
+]
